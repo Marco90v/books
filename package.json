@@ -2,6 +2,7 @@
   "name": "books",
   "version": "1.0.0",
   "author": "Marco Velasquez Figarella",
+  "description": "practica en angular para listar libros y detalles de libros",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
