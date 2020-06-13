@@ -8,6 +8,15 @@ Realizar practica en angular con solicitud de peticiones http usando los servici
 ### Autor
 Marco Velasquez Figarella
 
+### Vista general - Lista de Libros
+![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
+
+### Vista detallada - Titulo, Autor, Cover, Resumen
+![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
+
+### Vista detallada con menu - misma vista detalla pero con el menu desplegado.
+![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
+
 
 ### Books
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
