@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #363636;
+}
+
+a:hover{
+    color: #363636;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #363636;
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+
+<div id="mySidenav" class="sidenav" [ngClass]="sidenav">
+    <a href="javascript:void(0)" class="closebtn" (click)="closeNav()" >&times;</a>
+    <ul>
+        <li *ngFor="let link of linkList">
+            <a [routerLink]="link.url" (click)="closeNav()" >{{link.title}}</a>
+        </li>
+    </ul>
+</div>
+
+<div id="resume">
+    <span style="font-size:30px;cursor:pointer" (click)="openNav()" >&#9776; Menu</span>
+    <h1>Title: {{title}}</h1>
+    <h2>Author: {{author}}</h2>
+    <h3>Cover: {{cover}}</h3>
+    <h3>Resume: {{resume}}</h3>
+
+</div>
