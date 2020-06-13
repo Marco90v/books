@@ -2,7 +2,7 @@
 Practica en angular. <br>
 Lista de libros, al hacer clic en el libro se carga una nueva vista con los detalles del libro, del lado izquierdo estara el menu desplegable con la lista de los libros.
 
-## finalidad del proyecto
+## Finalidad del proyecto
 Realizar practica en angular con solicitud de peticiones http usando los servicios, esturcturación de de los componentes. recopilar datos de dos JSON distintos.
 
 ### Autor
