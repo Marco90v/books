@@ -15,10 +15,10 @@ Marco Velasquez Figarella
 ![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
 
 ### Vista detallada - Titulo, Autor, Cover, Resumen
-![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
+![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-2.png)
 
 ### Vista detallada con menu - misma vista detalla pero con el menu desplegado.
-![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)
+![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-3.png)
 
 
 ### Books
