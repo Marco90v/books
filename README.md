@@ -5,8 +5,11 @@ Lista de libros, al hacer clic en el libro se carga una nueva vista con los deta
 ## Finalidad del proyecto
 Realizar practica en angular con solicitud de peticiones http usando los servicios, esturcturación de de los componentes. recopilar datos de dos JSON distintos.
 
-### Autor
+### Edición
 Marco Velasquez Figarella
+
+### Demo
+[Demo](https://marco90v.github.io/books/)
 
 ### Vista general - Lista de Libros
 ![Screenshot](https://raw.githubusercontent.com/Marco90v/books/master/Caps/Books-cap-1.png)

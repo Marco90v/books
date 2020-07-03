@@ -44,7 +44,10 @@ export class ServicesService {
   getDetalles(id: any): Observable<Details>{
     return this.http.get<any>(this.rutaDetails + id).pipe(
       map(data => {
-        return {covers : data.details.covers, description: data.details.description ? data.details.description.value : 'N/A' };
+        return {
+          covers : data.details.covers,
+        // tslint:disable-next-line: max-line-length
+          description: data.details.description.value ? data.details.description.value : data.details.description ? data.details.description : 'N/A' };
       })
     );
   }

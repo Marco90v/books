@@ -5,8 +5,7 @@ import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-book-select',
-  templateUrl: './book-select.component.html',
-  styleUrls: ['./book-select.component.css']
+  templateUrl: './book-select.component.html'
 })
 export class BookSelectComponent implements OnInit {
 
@@ -17,7 +16,7 @@ export class BookSelectComponent implements OnInit {
   linkList: Links[];
   private id: string;
   private book: Book;
-  private sidenav = 'close';
+  public sidenav = 'close';
 
   constructor(private api: ServicesService, private route: ActivatedRoute) {
     // Recupera el parametro y lo guarda en una Varibale

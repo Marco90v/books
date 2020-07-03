@@ -4,8 +4,7 @@ import { Links } from '../../interfaces/interfaces';
 
 @Component({
   selector: 'app-book-list',
-  templateUrl: './book-list.component.html',
-  styleUrls: ['./book-list.component.css']
+  templateUrl: './book-list.component.html'
 })
 export class BookListComponent implements OnInit, OnDestroy {
 

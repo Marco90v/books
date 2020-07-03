@@ -3,8 +3,7 @@ import { Links } from '../../interfaces/interfaces';
 
 @Component({
   selector: 'app-link-list',
-  templateUrl: './link-list.component.html',
-  styleUrls: ['./link-list.component.css']
+  templateUrl: './link-list.component.html'
 })
 export class LinkListComponent implements OnInit {
 
