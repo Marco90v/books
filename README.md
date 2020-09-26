@@ -6,7 +6,7 @@ Lista de libros, al hacer clic en el libro se carga una nueva vista con los deta
 Realizar practica en angular con solicitud de peticiones http usando los servicios, esturcturación de de los componentes. recopilar datos de dos JSON distintos.
 
 ### Edición
-Marco Velasquez Figarella
+Marco
 
 ### Demo
 [Demo](https://marco90v.github.io/books/)
